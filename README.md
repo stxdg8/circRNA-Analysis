@@ -1,3 +1,5 @@
 # circRNA-Analysis
 
-This is a repository for circRNA analysis. Focusing on idenfitying and investigating circRNAs with an infinite open reading frame (IORF). 
+This repository contains all of the scripts used to identify circRNAs with a different biological fuinction to their parent gene. 
+
+Created by Declan Grewcock | University of Nottingham
