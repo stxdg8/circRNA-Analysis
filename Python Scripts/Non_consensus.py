@@ -17,5 +17,5 @@ for line in mylist:  # read each line
            with open('non_consensus_ORF.txt','a+') as outfile:  # open outfile to append lines with non consensus start codons
                     outfile.write(line)
     else:
-           with open('no_non_consensus_ORF3.txt','a+') as outfile: # open outfile to append lines with no non consensus start codons
+           with open('no_non_consensus_ORF.txt','a+') as outfile: # open outfile to append lines with no non consensus start codons
                     outfile.write(line)
