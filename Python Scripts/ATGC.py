@@ -1,3 +1,5 @@
+#This script retreives only circRNAs in the circAtlas database that contain a nucleotide sequence
+
 import re # import regular expressions module
 
 file = input('Enter file name: ')
